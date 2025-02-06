@@ -72,8 +72,8 @@ Redeeming your **75% discount** for Mindstamp is quick and simple:
 
 | Plan           | Starting Price (Monthly)* | Ideal For                                          |
 |----------------|---------------------------|----------------------------------------------------|
-| **Starter**    | \$? /month               | Individuals or small teams just beginning with interactive video. |
-| **Pro**        | \$? /month               | More advanced features for marketing, sales, and training initiatives. |
+| **Starter**    | \$99 /month               | Individuals or small teams just beginning with interactive video. |
+| **Pro**        | \$499 /month               | More advanced features for marketing, sales, and training initiatives. |
 | **Enterprise** | Custom                   | Larger organizations needing advanced integrations, higher usage, and dedicated support. |
 
 > \*Exact pricing may vary. Apply the **75% off** code to experience significant savings on any plan.
